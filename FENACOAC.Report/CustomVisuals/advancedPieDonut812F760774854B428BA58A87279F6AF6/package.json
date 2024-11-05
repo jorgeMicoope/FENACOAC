@@ -1,0 +1,29 @@
+{
+  "version": "1.0.1",
+  "author": {
+    "name": "Visual BI Solutions",
+    "email": "solutions@visualbi.com"
+  },
+  "resources": [
+    {
+      "resourceId": "rId0",
+      "sourceType": 5,
+      "file": "resources/advancedPieDonut812F760774854B428BA58A87279F6AF6.pbiviz.json"
+    }
+  ],
+  "visual": {
+    "guid": "advancedPieDonut812F760774854B428BA58A87279F6AF6",
+    "name": "PieDrillDown",
+    "displayName": "Advanced Pie and Donut - xViz",
+    "version": "1.0.1",
+    "description": "Advanced Pie and Donut",
+    "supportUrl": "https://xviz.com/",
+    "gitHubUrl": "",
+    "visualClassName": "PieDrilldown"
+  },
+  "metadata": {
+    "pbivizjson": {
+      "resourceId": "rId0"
+    }
+  }
+}

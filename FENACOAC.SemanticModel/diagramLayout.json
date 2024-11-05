@@ -1,0 +1,70 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 39.148677407089053
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 746.69854668527466,
+            "y": 113.91768206786102
+          },
+          "nodeIndex": "public id_cac",
+          "size": {
+            "height": 241.5187618038135,
+            "width": 293.16721405858038
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 371.0393053575005,
+            "y": 27.314915012542961
+          },
+          "nodeIndex": "public id_date",
+          "size": {
+            "height": 191.2634616978176,
+            "width": 238
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 367.72340545954853,
+            "y": 475.09570779895392
+          },
+          "nodeIndex": "public inv_cif_fenacoac",
+          "size": {
+            "height": 168.58156663133468,
+            "width": 242.58156663133468
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 13.703095490466296,
+            "y": 34.4524386201699
+          },
+          "nodeIndex": "public balance_diario",
+          "size": {
+            "height": 660.621654086862,
+            "width": 293.16721405858033
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 70.298022031750747,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

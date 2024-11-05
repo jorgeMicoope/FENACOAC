@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "FENACOAC"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4eae966a-822a-4088-bf87-f134ee9629c7"
+  }
+}
